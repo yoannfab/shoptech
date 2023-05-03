@@ -1,0 +1,98 @@
+[
+    {
+      "name": "Samsung Galaxy S6 Tab Lite 2022",
+      "image": "https://res.cloudinary.com/ddaitbtjt/image/upload/v1681148782/ShopTech/tablette_y9e7mm.jpg",
+      "description":
+        "The Samsung Galaxy Tab S6 Lite tablet in grey is multifunctional and easy to use for both private and professional purposes. Thanks to its 4G connection, you can always access the Internet, even when you do not have a Wi-Fi connection.",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "price": 339.99,
+      "countInStock": 5,
+      "rating": 4.5,
+      "numReviews": 10
+    },
+    {
+      "name": "iPhone 14 Pro Max 128GB Memory",
+      "image": "https://res.cloudinary.com/ddaitbtjt/image/upload/v1681136123/ShopTech/iphone14_acqxqu.jpg",
+      "description":
+        "The iPhone 14 Pro Max is one of Apple's 16th generation smartphone announced on September 7, 2022. It introduces a new 6.7-inch OLED display with a dynamic punch for the FaceID sensor and front camera as well as a dynamic refresh rate of 120 Hz to 1 Hz for Always on Display. It also has a new Apple A16 SoC etched in 4nm and a new 48+12+12 megapixel triple camera sensor with X3 telephoto lens and ultra wide angle.",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 1301.99,
+      "countInStock": 10,
+      "rating": 5,
+      "numReviews": 12
+    },
+    {
+      "name": "Apple 2022 iPad Pro 12.9 Inch (Wi-FI, 128 GB)",
+      "image": "https://res.cloudinary.com/ddaitbtjt/image/upload/v1681135798/ShopTech/ipad_vfndxt.jpg",
+      "description":
+        "The Apple iPad Pro 11-inch 2022 is a high-end tablet with an IPS display with a definition of 2388 x 1668 pixels. The 2022 version features the Apple M2 SoC and is Wi-Fi 6E compatible. It comes with four speakers, a USB-C connector and a 12 MP front camera compatible with Face ID.",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 1429.99,
+      "countInStock": 7,
+      "rating": 4,
+      "numReviews": 15
+    },
+    {
+      "name": "Sony WH1000XM4| Wireless Noise-Cancelling Bluetooth Headset",
+      "image": "https://res.cloudinary.com/ddaitbtjt/image/upload/v1682382582/headset_u5gwha.jpg",
+      "description":
+        "Industry-leading noise reduction with artificial intelligence for an immersive sound experience. Profile: A2DP, AVRCP, HFP, HSP Ambient Sound Mode: 20 levels of customization to stay in tune with your environment, More intelligent settings with the free Sony | Headphones Connect app",
+      "brand": "Sony",
+      "category": "Electronics",
+      "price": 319.99,
+      "countInStock": 10,
+      "rating": 5,
+      "numReviews": 14
+    },
+    {
+        "name": "Apple Airpods Pro (2ᵉ generation)",
+        "image": "https://res.cloudinary.com/ddaitbtjt/image/upload/v1681135759/ShopTech/airpods_rh9fbj.jpg",
+        "description":
+          "Active Noise Reduction blocks unwanted outside noise Adaptive Transparency lets outside sounds through while reducing deafening noise Personalized spatial audio with dynamic head tracking puts you in the middle of 360-degree sound",
+        "brand": "Amazon",
+        "category": "Electronics",
+        "price": 269.99,
+        "countInStock": 10,
+        "rating": 4,
+        "numReviews": 13
+    },
+    {
+        "name": "Men's 2022 Connected Watch with Bluetooth Calling",
+        "image": "https://res.cloudinary.com/ddaitbtjt/image/upload/v1681136026/ShopTech/montre_qbrx2u.jpg",
+        "description":
+          "Men's connected watch uses built-in microphone and speaker to make Bluetooth calls in hands-free mode, support display call recordings, add common contacts, whether working out or cleaning, calls become easy and comfortable. Equipped with AI voice assistant, it can perform all the functions of cell phone (play music, drive navigation, etc.",
+        "brand": "Kiqulov",
+        "category": "Electronics",
+        "price": 55.99,
+        "countInStock": 7,
+        "rating": 3.5,
+        "numReviews": 10
+    },
+    {
+      "name": "Govee TV WiFi LED Backlight with Camera, Smart LED Ribbon",
+      "image": "https://res.cloudinary.com/ddaitbtjt/image/upload/v1682382927/dreamview_f1ysgn.jpg",
+      "description":
+        "Intelligent Color Selection: With the 1080P camera, colors are recognized on the TV screen and then automatically applied to the LED strip. This allows the colors on the screen to be enhanced with real-time lighting effects. Music Mode: With the built-in microphone, the LED strip can flash according to the sound of the TV. This lighting also provides a suitable atmosphere for games or parties",
+      "brand": "Govee",
+      "category": "Electronics",
+      "price": 69.99,
+      "countInStock": 9,
+      "rating": 4,
+      "numReviews": 5
+    },
+    {
+      "name": "Google Pixel 7",
+      "image": "https://res.cloudinary.com/ddaitbtjt/image/upload/v1681135919/ShopTech/google_txcugb.jpg",
+      "description":
+        "With Google Tensor G2, Google Pixel 7 is faster, efficient and secure. It offers a photo and video quality never seen on a Pixel. The adaptive battery of the Pixel can offer more than 24 hours of battery life, and even up to 72 hours with the ultra battery saver.",
+      "brand": "Google",
+      "category": "Electronics",
+      "price": 543.99,
+      "countInStock": 6,
+      "rating": 0,
+      "numReviews": 0
+  }
+  ]
